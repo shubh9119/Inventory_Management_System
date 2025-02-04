@@ -64,11 +64,73 @@ This Inventory Management System is designed to streamline inventory tracking, s
 
 ### Customer Features
 
-(Describe how customers interact with the system.  If customer features are not implemented, state that.)
+Customers can interact with the system (if customer features are fully implemented) to browse products, place orders, and manage their profiles.
+
+1. **Product Browsing:**
+   - Customers can browse available products through the website's product catalog.
+   - Products are typically categorized (e.g., by type, brand) for easy navigation.
+   - A search functionality is usually provided to find specific products by name or keyword.
+
+2. **Order Placement:**
+   - After selecting desired products, customers can add them to their cart.
+   - The cart displays the selected items and the total price.
+   - Customers can proceed to checkout to place their order.  This usually involves providing shipping information and choosing a payment method.
+
+3. **Order Tracking:**
+   - After placing an order, customers can track its status (e.g., pending, processing, shipped, delivered) through the website or via email notifications.
+
+4. **Profile Management:**
+   - Customers can manage their profile information, including their name, contact details, shipping address, and order history.  They can also usually update their password.
+
+**Example Customer Workflow:**
+
+1. A customer visits the website and browses the product catalog.
+2. They add a few items to their cart.
+3. They proceed to checkout, enter their shipping address, and choose a payment method.
+4. They confirm their order.
+5. The customer receives an order confirmation email.
+6. They can track the status of their order online.
+
 
 ### Retailer Features
 
-(Describe how retailers use the system, including steps for managing inventory, recording sales, generating reports, etc.)
+Retailers have access to a wider range of features for managing inventory, sales, and customer/retailer data.  They typically access these features through a secure login.
+
+1. **Inventory Management:**
+   - **Adding Products:** Retailers can add new products to the inventory, providing details like name, description, price, quantity, and any relevant attributes.
+   - **Editing Products:** Existing product information can be edited as needed.
+   - **Deleting Products:** Products can be removed from the inventory.
+   - **Stock Management:** Retailers can view and update stock levels. The system may provide alerts for low stock items.
+
+2. **Sales Management:**
+   - **Recording Sales:** Retailers can record sales transactions, specifying the customer, products sold, quantities, and payment method.
+   - **Generating Bills/Invoices:** The system can generate bills and invoices for sales transactions, which can be printed or sent to customers electronically.
+   - **Sales Reports:** Retailers can generate various sales reports (e.g., daily, weekly, monthly sales, sales by product, sales by customer) to analyze sales trends and performance.
+
+3. **Customer Management:**
+   - **Adding Customers:** Retailers can add new customer information, including name, contact details, and any other relevant information.
+   - **Viewing/Editing Customer Information:** Existing customer information can be viewed and edited.
+
+4. **Retailer Management:**
+   - **Adding Retailers:** Retailers can add new retailer information, including name, contact details, and any other relevant information.
+   - **Viewing/Editing Retailer Information:** Existing retailer information can be viewed and edited.
+
+**Example Retailer Workflow:**
+
+1. A retailer logs in to the system.
+2. They navigate to the "Inventory Management" section.
+3. They add a new product to the inventory, providing all necessary details.
+4. Later, they record a sale to a customer, selecting the products sold and the customer's information.
+5. The system generates a bill/invoice for the transaction.
+6. The retailer can view and print the bill/invoice.
+7. At the end of the week, the retailer generates a sales report to analyze sales performance.
+
+**Accessing the System:**
+
+- **Customers:** Typically access the system through a web browser by visiting the website's URL.
+- **Retailers:** Also access the system through a web browser, often using a separate login page or a specific section of the website.
+
+
 
 ## Database Schema
 
