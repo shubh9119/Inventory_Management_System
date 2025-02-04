@@ -51,7 +51,7 @@ This Inventory Management System is designed to streamline inventory tracking, s
 
 ## Installation
 
-1. **Clone the repository:** `git clone https://github.com/your-username/your-repository-name.git`
+1. **Clone the repository:** `git clone https://github.com/shubh9119/Inventory_Management_System.git
 2. **Create a virtual environment:** `python3 -m venv venv` (or `virtualenv venv`)
 3. **Activate the virtual environment:**
     * Linux/macOS: `source venv/bin/activate`
@@ -168,7 +168,7 @@ SalesItems:
 
 ## API Endpoints (If applicable)
 
-(List and describe the API endpoints, their methods (GET, POST, PUT, DELETE), and the data they accept and return.)
+Methods (GET, POST, PUT, DELETE), and the data they accept and return.)
 
 ## Future Improvements
 
@@ -180,7 +180,9 @@ SalesItems:
 
 ## Contributing
 
-(Explain how others can contribute to the project.  Include guidelines for code contributions, bug reports, etc.)
+Open for contribution
+https://github.com/shubh9119/Inventory_Management_System.git
+
 
 ## License
 
